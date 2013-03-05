@@ -14,7 +14,7 @@ Unzip this file to an empty directory and then make the expanded start script ex
 
 Next execute the start script with as follows:
 
-   ./start-server.sh {host} {port}
+    ./start-server.sh {host} {port}
 
 Ideally __host__ should be the external facing port of the machine
 
